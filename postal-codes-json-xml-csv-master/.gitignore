@@ -1,0 +1,4 @@
+allCountries.txt
+data/**/*.csv
+data/**/*.json
+data/**/*.xml
